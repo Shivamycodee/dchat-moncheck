@@ -1,6 +1,13 @@
-<h2> How to chat? <h2>
+<h2> How to chat? </h2>
+
+
+
  
  <bold>BRAVE BROWSER MUST</bold>
+ 
+ 
+ 
+ <br><br>
  
  <ol>
    <li> Click on start</li>
