@@ -3,7 +3,7 @@
 
 
  
- <bold>BRAVE BROWSER MUST</bold>
+ <bold>please use it in brave browser, to use in chrome you have to enable peer 2 peer configuration</bold>
  
  
  
